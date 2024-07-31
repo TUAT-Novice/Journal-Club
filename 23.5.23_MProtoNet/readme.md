@@ -18,7 +18,9 @@ Definition:  <span style="color:#000000">The degree to which a human can underst
 
 Image attribution maps
 
-![](23.5.23_MProtoNet/img%5CJC_MProtoNet1.png)
+![](23.5.23_MProtoNet/img/)
+
+![](23.5.23_MProtoNet/img/JC_MProtoNet1.png)
 
 The result is positive\, because …
 

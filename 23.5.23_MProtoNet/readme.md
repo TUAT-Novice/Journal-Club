@@ -1,6 +1,6 @@
 # MProtoNet: A Case\-Based Interpretable Model for Brain Tumor Classification with 3D Multi\-parametric Magnetic Resonance Imaging
 
-### MIDL 2023 Oral paper
+### MIDL 2023 Oral
 
 ### [pdf](https://arxiv.org/abs/2304.06258)
 

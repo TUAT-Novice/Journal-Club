@@ -1,1 +1,1 @@
-The repository to save the journal club presentation.
+# This is the repository to save my journal club presentation.

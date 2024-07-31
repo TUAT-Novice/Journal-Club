@@ -62,7 +62,7 @@ Currently, there are mainly 2 kinds of methods for attribution maps.
 
 m features for classification
 
-![](img%5CJC_MProtoNet2.png)
+![](img/5CJC_MProtoNet2.png)
 
 m \* 7 \* 7 similarity scores
 
@@ -84,33 +84,33 @@ In the ProtoPNet, we need to learn the prototype vectors, which is defined in th
 
 2\. ProtoPNet \(NIPS 2019\): Training
 
-![](img%5CJC_MProtoNet3.png)
+![](img/5CJC_MProtoNet3.png)
 
 L2 distance in practice
 
 Clst to minimize to distance \(max score\) between prototype vector and feature which are in same class
 
-![](img%5CJC_MProtoNet4.png)
+![](img/5CJC_MProtoNet4.png)
 
-![](img%5CJC_MProtoNet5.png)
+![](img/5CJC_MProtoNet5.png)
 
 m \* 7 \* 7 scores
 
-![](img%5CJC_MProtoNet6.png)
+![](img/5CJC_MProtoNet6.png)
 
 2\. ProtoPNet \(NIPS 2019\): Visualization
 
-![](img%5CJC_MProtoNet7.png)
+![](img/5CJC_MProtoNet7.png)
 
 2\. ProtoPNet: Visualization Result
 
-![](img%5CJC_MProtoNet8.png)
+![](img/5CJC_MProtoNet8.png)
 
 Activation map\, and the learned top3 prototypes from training images
 
 3\. MProtoNet: Framework & Contribution
 
-![](img%5CJC_MProtoNet9.png)
+![](img/5CJC_MProtoNet9.png)
 
 __log\-sum\-exp \(LSE\) pooling__
 
@@ -122,25 +122,25 @@ Propose the \(1\) novel attention structure and soft masking \(2\) Online\-CAM l
 
 More interpretability metrics are evaluated
 
-![](img%5CJC_MProtoNet10.png)
+![](img/5CJC_MProtoNet10.png)
 
 3\. MProtoNet: Framework
 
-![](img%5CJC_MProtoNet11.png)
+![](img/5CJC_MProtoNet11.png)
 
 XProtoNet \(CVPR 2021\)
 
-![](img%5CJC_MProtoNet12.png)
+![](img/5CJC_MProtoNet12.png)
 
-![](img%5CJC_MProtoNet13.png)
+![](img/5CJC_MProtoNet13.png)
 
 Fusion through dot product rather than attention
 
-![](img%5CJC_MProtoNet14.png)
+![](img/5CJC_MProtoNet14.png)
 
 Soft masking                                                 to sharpen the activation value
 
-![](img%5CJC_MProtoNet15.png)
+![](img/5CJC_MProtoNet15.png)
 
 Attention                                                               to get highly\-activated regions
 
@@ -149,27 +149,27 @@ Attention                                                               to get h
 Rough result
 
 
-![](img%5CJC_MProtoNet16.png)
+![](img/5CJC_MProtoNet16.png)
 
 3\. MProtoNet: Framework
 
-![](img%5CJC_MProtoNet17.png)
+![](img/5CJC_MProtoNet17.png)
 
-![](img%5CJC_MProtoNet18.png)
+![](img/5CJC_MProtoNet18.png)
 
 3\. MProtoNet: Training
 
 XProtoNet \(CVPR 2021\)
 
-![](img%5CJC_MProtoNet19.png)
+![](img/5CJC_MProtoNet19.png)
 
-![](img%5CJC_MProtoNet20.png)
+![](img/5CJC_MProtoNet20.png)
 
 <span style="color:#FF0000">Loss for prototypes vectors</span>
 
-![](img%5CJC_MProtoNet21.png)
+![](img/5CJC_MProtoNet21.png)
 
-![](img%5CJC_MProtoNet22.png)
+![](img/5CJC_MProtoNet22.png)
 
 ---
 
@@ -177,23 +177,23 @@ They use the 3-stage training method. In Stage-1, they mainly focus on the
 
 3\. MProtoNet: Results on BraTS2020
 
-![](img%5CJC_MProtoNet23.png)
+![](img/5CJC_MProtoNet23.png)
 
 Ablation experience on Classification and Interpretability\. The performance on interpretability is better\.
 
 3\. MProtoNet: Visualization Results on BraTS2020
 
-![](img%5CJC_MProtoNet24.png)
+![](img/5CJC_MProtoNet24.png)
 
 The learned top3 prototypes from training images\. The prototypes are meaningful\, and the attention map is similar to the prototypes\.
 
 3\. MProtoNet: Visualization Results on BraTS2020
 
-![](img%5CJC_MProtoNet25.png)
+![](img/5CJC_MProtoNet25.png)
 
 3\. MProtoNet: Conclusion & Expectation
 
-![](img%5CJC_MProtoNet26.png)
+![](img/5CJC_MProtoNet26.png)
 
 Conclusion
 

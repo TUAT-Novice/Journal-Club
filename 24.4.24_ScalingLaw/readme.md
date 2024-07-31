@@ -1,3 +1,3 @@
 # Scaling Law
 
-![](ScalingLaw.png)
+![](Scaling Law.png)
